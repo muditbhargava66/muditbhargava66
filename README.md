@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Mudit Bhargava! 👋
+
+![](https://komarev.com/ghpvc/?username=muditbhargava66&color=green)
+
+### Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/mudit-b07/) | [Twitter](https://twitter.com/mudit_bhargava_) | [Personal Website](https://muditbhargava66.github.io/notes/) | [Email](mailto:muditbhargava666@gamil.com)
+
+Feel free to explore my repositories and contributions below!
 
 <!--
 **muditbhargava66/muditbhargava66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
