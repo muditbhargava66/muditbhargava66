@@ -8,6 +8,12 @@
 
 Feel free to explore my repositories and contributions below!
 
+```text
+🌞 Morning                 0 tasks        ░░░░░░░░░░░░░░░░░░░░░░░░░    0 % 
+🌆 Daytime                20 tasks        █████░░░░░░░░░░░░░░░░░░░░   20 %
+🌃 Evening                40 tasks        ████████████░░░░░░░░░░░░░   40 %
+🌙 Night                  40 tasks        ████████████░░░░░░░░░░░░░   40 %
+```
 <!--
 **muditbhargava66/muditbhargava66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
