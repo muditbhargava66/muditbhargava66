@@ -20,13 +20,13 @@ Feel free to explore my repositories and contributions below!
      ┌─────┼──┼─────┐           ┌─────┼──┼─────┐
      │     │  │     │           │     │  │     │
      │     │  │     │           │     │  │     │
-     │  High-Performance    Communication  │
-     │  Computing &          Systems &     │
-     │  Optimization         Protocols     │
+     │  High-Performance        Communication  │
+     │  Computing &              Systems &     │
+     │  Optimization             Protocols     │
      │     │  │     │           │     │  │     │
      │     │  │     │           │     │  │     │
      └─────┼──┼─────┘           └─────┼──┼─────┘
-           │  │       Machine         │  │
+           │  │        Machine        │  │
            │  │       Learning        │  │
            │  │         & AI          │  │
            │  │                       │  │
